@@ -8,7 +8,7 @@ body{
     width: 100%;
     height: 300px;
     background: #7692FF;
-    transform: skewY(deg);
+    
 }
 .name .content {
     width: 50%;
@@ -21,7 +21,6 @@ body{
     font-family:'Roboto', sans-serif;
     font-weight: bolder;
     font-size: 65px;
-    transform: skewY(deg);
     margin-bottom: 0;
 }
 .name .content .p-2 {
@@ -29,7 +28,6 @@ body{
     font-family:'Roboto', sans-serif;
     font-weight: bold;
     font-size: 35px;
-    transform: skewY(deg);
     margin-top: 0;
 }
 
